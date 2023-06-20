@@ -1,5 +1,17 @@
+:root{
+    --color-primary: #2e2f42;
+    --color-brand: #4d5ae5;
+    --invert-color: #ffffff;
+    --secondary-color: #434455;
+    --light-color: #f4f4fd;
+    --color-active: #404bbf;
+    --border-color: #e7e9fc;
+    
+}
 body{
     font-family: 'roboto', sans-serif;
+    background-color: #FFFFFF;
+    color: 434455;
 }
 
 
