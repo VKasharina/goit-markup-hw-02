@@ -6,7 +6,7 @@
     --light-color: #f4f4fd;
     --color-active: #404bbf;
     --border-color: #e7e9fc;
-    
+
 }
 body{
     font-family: 'roboto', sans-serif;
@@ -14,9 +14,17 @@ body{
     color: 434455;
 }
 
+.hero {
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
 
-
-.header-link{
+.header-link {
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -34,7 +42,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.button-all {
+.button-white {
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -46,7 +54,7 @@ letter-spacing: 0.04em;
 color: #FFFFFF;
 }
 
-.header-adress {
+.button-blue {
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
