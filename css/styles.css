@@ -33,6 +33,15 @@ body{
     color: #2E2F42;
 }
 
+.logo-kolor {
+    color: #f4f4fd;
+}
+
+.adress {
+font-style: normal;
+list-style: none;
+}
+
 .section-hero {
     background-color: #2e2f42;
 }
@@ -130,6 +139,13 @@ text-transform: capitalize;
 color: #2E2F42;
 }
 
+.section-our-team {
+background-color: #F4F4FD;
+}
+.phone-our-team {
+    background-color: #FFFFFF;
+}
+
 .team-name {
     font-style: normal;
 font-weight: 500;
@@ -150,7 +166,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .footer-text {
-    font-style: normal;
+font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
