@@ -65,12 +65,13 @@ color: #434455;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1/5;
+line-height: 1.5;
 display: flex;
 align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: #FFFFFF;
+background-color: #F4F4FD;
 }
 
 .button-blue {
@@ -98,7 +99,7 @@ color: #2E2F42;
     font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1/5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
@@ -107,7 +108,7 @@ color: #434455;
     font-style: normal;
 font-weight: 700;
 font-size: 36px;
-line-height: 1.1;
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
@@ -140,4 +141,11 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #F4F4FD;
+}
+
+.list {list-style: none;
+}
+
+link {
+    
 }
