@@ -46,7 +46,7 @@ list-style: none;
     background-color: #2e2f42;
 }
 
-.hero {
+.hero-list {
 font-style: normal;
 font-weight: 700;
 font-size: 56px;
@@ -63,6 +63,10 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2E2F42;
+}
+
+.header-link:is(:hover,:focus) {
+    color: #404bbf;
 }
 
 .header-adress {
@@ -165,7 +169,7 @@ text-align: center;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.footer-text {
+.footer-1-page {
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -173,6 +177,10 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #F4F4FD;
 background-color: #2E2F42;
+}
+
+.footer-2-page {
+background-color: #2e2f42;
 }
 
 .list {
