@@ -33,8 +33,24 @@ body{
     color: #2E2F42;
 }
 
-.logo-kolor {
-    color: #f4f4fd;
+.logo-web {
+    color:#4D5AE5;
+    font-family: Raleway;
+font-size: 18px;
+font-weight: 800;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+}
+
+.logo-studio {
+    color: #2E2F42;
+    font-family: Raleway;
+font-size: 18px;
+font-weight: 800;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
 }
 
 .adress {
@@ -87,6 +103,9 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #ffffff;
 cursor: pointer;
+}
+.button-order-service:is(:hover, :focus) {
+    color: #404BBF;
 }
 
 .button-all {
