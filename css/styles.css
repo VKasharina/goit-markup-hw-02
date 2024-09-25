@@ -27,6 +27,12 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+
+.page-logo:hover,
+.page-logo:focus {
+  color: #404bbf;
+}
+
 .page-logo-studio {
   color: #2e2f42;
 }
@@ -118,7 +124,7 @@ body {
 .our-team-background {
   background-color: #ffffff;
 }
-.title-team-name {
+.team-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
